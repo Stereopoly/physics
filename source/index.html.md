@@ -100,6 +100,15 @@ There are 3 methods of electrification:
 * Contact - touching another object
 * Induction - rearrangement of electrons in the presence of a charged object
 
+<aside class="warning">
+Don't confuse electric potential with electric potential energy!
+</aside>
+
+```plaintext
+V = kQ / r
+```
+
+Electric potential is the work needed to move a unit positive charge into an electric field without any acceleration. It is usually written with a V (volts).
 
 ## Direct Current Circuits
 
