@@ -1,2 +1,1 @@
-# physics
-Documentation for Physics
+### Physics
