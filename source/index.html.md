@@ -28,16 +28,6 @@ All you need to know to pass AP Physics 1.
 
 # Classical Mechanics
 
-```plaintext
-Insert pastable text here
-```
-
-Learn all these useful formulas.
-
-<aside class="notice">
-Memorize it for faster usage on AP test.
-</aside>
-
 ## Kinematics
 
 ## Newton's Laws
@@ -60,6 +50,56 @@ Remember: F = MA
 # Electricity and Magnetism
 
 ## Electric Forces and Fields
+
+```plaintext
+1C = 1.6*10^-19
+```
+
+The electric force between two charged particles obeys a law very similar to that describing the gravitational force betwen two masses.
+
+```plaintext
+Coulomb's Law: F = kq1*q2 / r^2
+k = 9*10^9
+```
+
+<aside class="notice">
+Coulomb's Law: F = kq1q2 / r^2, where k = 9E10^9
+</aside>
+
+This is Coulomb's law. A negative F is an attraction between the charges and a positive F is a repulsion.
+
+The presence of a charge creates an electric field. Another charge placed in the field will experience a force due to the field.
+
+```plaintext
+E = F / q
+```
+
+<aside class="notice">
+Electric field vector E equals Force on q / test charge q
+</aside>
+
+A positive source charge has vectors pointing away from it. A negative source charge has vectors pointing towards it.
+
+The strength of an electric field is determind by the density of the field lines.
+
+```plaintext
+F = q*E
+```
+The force generated on a charge in an electric field is given by F = qE.
+
+```plaintext
+Ue = qV
+```
+
+<aside class="notice">
+The potential energy of an electric field is equal to the charge (q) times the potential difference (V).
+</aside>
+
+There are 3 methods of electrification:
+* Friction - rubbing i.e. fur against a rod
+* Contact - touching another object
+* Induction - rearrangement of electrons in the presence of a charged object
+
 
 ## Direct Current Circuits
 
