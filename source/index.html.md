@@ -52,7 +52,7 @@ Remember: F = MA
 ## Electric Forces and Fields
 
 ```plaintext
-1C = 1.6*10^-19
+1e- = 1.6*10^-19 C
 ```
 
 The electric force between two charged particles obeys a law very similar to that describing the gravitational force betwen two masses.
