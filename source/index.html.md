@@ -96,7 +96,7 @@ The potential energy of an electric field is equal to the charge (q) times the p
 </aside>
 
 There are 3 methods of electrification:
-* Friction - rubbing i.e. fur against a rod
+* Friction - rubbing i.e. fur against a rod 
 * Contact - touching another object
 * Induction - rearrangement of electrons in the presence of a charged object
 
